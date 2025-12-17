@@ -4,7 +4,7 @@ Campus Essentials is a  eCommerce-style web application that displays campus-rel
 
 ## Live Demo
 The application is deployed on AWS and can be accessed here:
-()
+([Live Demo](https://main.dgqkfexhio5n8.amplifyapp.com/))
 
 ## Features
 - Multi-page layout (Home, Products, Contact)
